@@ -50,8 +50,6 @@ Camada de Controle (`ProdutoControleTest`)
 
 Como executar os testes
 
-
-Clonar o repositório
 ```bash
 git clone https://github.com/Luks-art/crud-produtos-teste.git
 cd crud-produtos-teste
