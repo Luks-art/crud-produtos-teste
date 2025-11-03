@@ -87,4 +87,3 @@ JUnit 5
 Este projeto é distribuído sob a licença MIT.
 Sinta-se à vontade para usar, estudar e modificar.
 
-*Ver no GitHub
